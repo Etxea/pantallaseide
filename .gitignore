@@ -7,4 +7,5 @@ bin/
 include/
 lib/
 local/
+pantallaseide/local_settings.py
 
